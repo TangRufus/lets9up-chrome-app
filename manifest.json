@@ -9,7 +9,7 @@
     },
     "manifest_version": 2,
     "update_url": "http://clients2.google.com/service/update2/crx",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "icons": {
         "128": "icon.png"
     }
