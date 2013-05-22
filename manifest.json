@@ -1,0 +1,16 @@
+{
+    "name": "Let's9up",
+    "description": "Just do 9 it! 我們希望聚一班人 9 Share，9 Hea，9 Fing，9 睇野，9 寫。",
+    "app": {
+        "urls": ["http://www.lets9up.com/"],
+        "launch": {
+            "web_url": "http://www.lets9up.com/"
+        }
+    },
+    "manifest_version": 2,
+    "update_url": "http://clients2.google.com/service/update2/crx",
+    "version": "0.0.1",
+    "icons": {
+        "128": "icon.png"
+    }
+}
